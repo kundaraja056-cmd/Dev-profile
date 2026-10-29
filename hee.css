@@ -398,18 +398,15 @@ background: #7169f0;
 background: #7169f0;
 }
 .p6{
-  /* border: 2px solid black; */
   width:1450px ;
   height: 600px;
 }
 .p6text{
-  /* border: 2px solid black; */
   width: 1400px;
   height: 100px;
   margin-top: 50px;
 }
 .p6card3{
-  /* border: 2px solid black; */
   width: 340px;
   height: 420px;
   float: left;
@@ -419,7 +416,6 @@ background: #7169f0;
   background: linear-gradient(to bottom, #ffe9d8 50%, white 50%);
 }
 .p6card1{
-  /* border: 2px solid black; */
   width: 340px;
   height: 420px;
   float: left;
@@ -429,7 +425,6 @@ background: #7169f0;
    background: linear-gradient(to bottom, #dfe5ff 50%, white 50%);
 }
 .p6card2{
-  /* border: 2px solid black; */
   width: 340px;
   height: 420px;
   float: left;
@@ -466,7 +461,6 @@ margin-top: 10px;
   margin-left: 20px;
 }
 .p7{
-  /* border: 2px solid black; */
   height: 750px;
   width: 1450px;
 }
@@ -488,7 +482,7 @@ margin-top: 10px;
 }
 
 .p8{
-  /* border: 2px solid black; */
+ 
   height: 500px;
   width: 1450px;
 }
